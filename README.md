@@ -48,14 +48,6 @@ Magic is best when shared! Contribute your own spells, potions, or magical creat
 <a name="community"></a>Join Our Magical Guild!
 
 
-Have questions, ideas, or just want to chat about all things magical? Join our mystical guild:
-
-
-
-🦉 Owl-Post: Twitter
-🌟 The Enchanted Network: LinkedIn
-🪝 Wand-Wielders' Hangout: Slack
-<a name="acknowledgments"></a>Acknowledgments
 
 
 
